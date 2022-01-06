@@ -12,7 +12,7 @@
     "yarn-upgrade-all": "^0.3.0"
   },
   "dependencies": {
-    "mermaid": "^8.2.3",
+    "mermaid": "^8.13.8",
     "chalk": "^2.4.1",
     "commander": "^2.15.1",
     "puppeteer": "^1.4.0"
